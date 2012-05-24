@@ -1,5 +1,5 @@
 package com.mio.simba.client;
-
+/* I am Alan */
 public interface GCI {
 	
 	/**
